@@ -62,3 +62,5 @@ def hangman_game(secret_word):
 
 # Start the game with a chosen word
 hangman_game("python")
+
+# test additional input
